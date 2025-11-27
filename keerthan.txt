@@ -1,0 +1,1 @@
+full stack development is a process of building frontend and backend software
